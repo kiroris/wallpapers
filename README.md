@@ -4,4 +4,4 @@ This repository is needed for quick access to my wallpaper. If you are intereste
 
 [Scripts here](https://github.com/na-ze/dotfiles/tree/main/hypr/scripts)
 
-![]([mountain.jpg](https://celes.club/uploads/posts/2022-06/thumbs/1654215116_1-celes-club-p-anime-oboi-vindovs-krasivie-3.jpg)https://celes.club/uploads/posts/2022-06/thumbs/1654215116_1-celes-club-p-anime-oboi-vindovs-krasivie-3.jpg)
+![](https://celes.club/uploads/posts/2022-06/thumbs/1654215124_9-celes-club-p-anime-oboi-vindovs-krasivie-13.jpg)
