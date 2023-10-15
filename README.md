@@ -4,4 +4,4 @@ This repository is needed for quick access to my wallpaper. If you are intereste
 
 [Scripts here](https://github.com/na-ze/dotfiles/tree/main/hypr/scripts)
 
-![lavender](https://github.com/m4xshen/dotfiles/assets/74842863/e13dbe5d-d6df-4a16-85fc-eddc921312ab)
+![lavender](https://c.wallhere.com/photos/49/5a/LoFi_mountain_top_photography_night_Night_Dawn_mountain_view_Japan_Mount_Fuji-2156415.jpg!d)
