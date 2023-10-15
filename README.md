@@ -4,4 +4,4 @@ This repository is needed for quick access to my wallpaper. If you are intereste
 
 [Scripts here](https://github.com/na-ze/dotfiles/tree/main/hypr/scripts)
 
-![](https://celes.club/uploads/posts/2022-06/thumbs/1654215124_9-celes-club-p-anime-oboi-vindovs-krasivie-13.jpg)
+![]([https://celes.club/uploads/posts/2022-06/thumbs/1654215124_9-celes-club-p-anime-oboi-vindovs-krasivie-13.jpg](https://raw.githubusercontent.com/na-ze/wallpapers/main/extinct-volcano.jpg)https://raw.githubusercontent.com/na-ze/wallpapers/main/extinct-volcano.jpg)
